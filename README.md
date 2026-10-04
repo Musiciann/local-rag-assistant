@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local RAG Assistant
 
 > A fully local, privacy-first RAG assistant for your notes and documents — chat with your knowledge base without sending a single byte to the cloud.
@@ -151,3 +152,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 - [Qwen](https://github.com/QwenLM/Qwen2.5) — for an excellent open model family
 - [Chroma](https://www.trychroma.com/) and [LlamaIndex](https://www.llamaindex.ai/) — for the RAG building blocks
 - [Astral](https://astral.sh/) — for `uv` and `ruff`
+=======
+# local-rag-assistant
+Local RAG-assistant for notes and documents
+>>>>>>> f0bdeb1437f1f353f40d0fa3adb29991f8b9e08d
