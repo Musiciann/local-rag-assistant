@@ -1,7 +1,7 @@
 [project]
 name = "local-rag-assistant"
 version = "0.1.0"
-description = "Add your description here"
+description = "Local RAG-assistant for notes and documents"
 readme = "README.md"
 authors = [
     { name = "Maksim", email = "NeoRiZe456D@gmail.com" }
